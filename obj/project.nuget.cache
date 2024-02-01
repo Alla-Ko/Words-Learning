@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oGkIxavWRNNnEa5AZF/Lweef0vlECnsBtjJVZxqK8pimsoJsQO7pbbKg6P0/lwk7OeW76P7dWiQ5g32xycv2JQ==",
+  "success": true,
+  "projectFilePath": "C:\\Alla\\C#_proj\\PlusBase\\PlusBase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\allak\\.nuget\\packages\\basepoint.system.data.sqlite.core\\1.0.112\\basepoint.system.data.sqlite.core.1.0.112.nupkg.sha512",
+    "C:\\Users\\allak\\.nuget\\packages\\system.speech\\8.0.0\\system.speech.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
